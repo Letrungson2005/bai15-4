@@ -7,9 +7,7 @@
 
 ## Hình ảnh minh họa
 
-### a. Ảnh a
 
-![Ảnh a](assets/images/a.jpg)
 
 ### b. Ảnh b
 
