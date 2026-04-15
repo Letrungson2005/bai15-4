@@ -1,12 +1,20 @@
-# Bài tập thực hành:
+# ABC App
 
-*Thông tin sinh viên:*
-* *Họ và tên:* Lê Trung Sơn
-* *Mã sinh viên:* 23810310352
-* *Lớp:* D18CNPM5
+## Thông tin sinh viên
 
-## Kết quả 
-Hình ảnh kết quả:
+- Họ và tên: Lê Trung Sơn
+- MSV: 23810310352
 
-![app](./assets/logintc.png)
-![app](./assets/logouttc.png)
+## Hình ảnh minh họa
+
+### a. Ảnh a
+
+![Ảnh a](assets/images/a.jpg)
+
+### b. Ảnh b
+
+![Ảnh b](assets/images/b.jpg)
+
+### c. Ảnh c
+
+![Ảnh c](assets/images/c.jpg)
